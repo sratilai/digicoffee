@@ -36,5 +36,7 @@
 >Computational Culture is an online open-access peer-reviewed journal of inter-disciplinary enquiry into the nature of cultural computational objects, practices, processes and structures.
 
 - [Digital Humanities Quarterly] (http://www.digitalhumanities.org/dhq/)
+>Digital Humanities Quarterly (DHQ) is an open-access, peer-reviewed, digital journal covering all aspects of digital media in the humanities.
+
 - [Digital Icons: Studies in Russian, Eurasian and Central European New Media] (http://www.digitalicons.org/)
 
