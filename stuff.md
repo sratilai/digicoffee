@@ -32,7 +32,7 @@
 
 ## e-Journals
 
-- [Computational Culture: A journal of sofrware studies] (http://computationalculture.net/)
+- [Computational Culture: A Journal of Software Studies] (http://computationalculture.net/)
 - [Digital Humanities Quarterly] (http://www.digitalhumanities.org/dhq/)
 - [Digital Icons: Studies in Russian, Eurasian and Central European New Media] (http://www.digitalicons.org/)
 
