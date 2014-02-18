@@ -32,5 +32,5 @@
 
 ## Journals
 
--
+- [Computational Culture] (http://computationalculture.net/)
 
