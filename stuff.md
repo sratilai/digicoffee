@@ -32,12 +32,12 @@
 
 ## e-Journals
 
-- [Computational Culture: A Journal of Software Studies] (http://computationalculture.net/)
+[Computational Culture: A Journal of Software Studies] (http://computationalculture.net/)
 >Computational Culture is an online open-access peer-reviewed journal of inter-disciplinary enquiry into the nature of cultural computational objects, practices, processes and structures.
 
-- [Digital Humanities Quarterly] (http://www.digitalhumanities.org/dhq/)
+[Digital Humanities Quarterly] (http://www.digitalhumanities.org/dhq/)
 >Digital Humanities Quarterly (DHQ) is an open-access, peer-reviewed, digital journal covering all aspects of digital media in the humanities.
 
-- [Digital Icons: Studies in Russian, Eurasian and Central European New Media] (http://www.digitalicons.org/)
+[Digital Icons: Studies in Russian, Eurasian and Central European New Media] (http://www.digitalicons.org/)
 >Digital Icons: Studies in Russian, Eurasian and Central European New Media (Digital Icons) is an online publication that appears twice a year. The journal is a multi-media platform that explores new media as a variety of information flows, varied communication systems and networked communities. The main goal of the journal is to disseminate research on new media in the region across global communities of scholars, media practitioners and the general public.
 
