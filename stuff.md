@@ -30,7 +30,7 @@
  - [website](http://wcm1.web.rice.edu/)
  - [github](https://github.com/wcaleb)
 
-## Journals
+## e-Journals
 
 - [Computational Culture] (http://computationalculture.net/)
 - [Digital Humanities Quarterly] (http://www.digitalhumanities.org/dhq/)
