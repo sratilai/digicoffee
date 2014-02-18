@@ -33,4 +33,6 @@
 ## Journals
 
 - [Computational Culture] (http://computationalculture.net/)
+- [Digital Humanities Quarterly] (http://www.digitalhumanities.org/dhq/)
+- [Digital Icons] (http://www.digitalicons.org/)
 
