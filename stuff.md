@@ -33,6 +33,8 @@
 ## e-Journals
 
 - [Computational Culture: A Journal of Software Studies] (http://computationalculture.net/)
+>Computational Culture is an online open-access peer-reviewed journal of inter-disciplinary enquiry into the nature of cultural computational objects, practices, processes and structures.
+
 - [Digital Humanities Quarterly] (http://www.digitalhumanities.org/dhq/)
 - [Digital Icons: Studies in Russian, Eurasian and Central European New Media] (http://www.digitalicons.org/)
 
